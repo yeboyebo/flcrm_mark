@@ -12,7 +12,124 @@
                 "name": "registros.json"
             }
         ],
-        "addFile": [],
+        "addFile": [
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_adjuntoscampana.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_adjuntoscampana_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_aliascampana.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_aliascampana_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_campanas.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_campanas_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_configmark.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_configmark_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_consultasmark.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_consultasmark_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_criterioslista.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_criterioslista_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_destinacampana.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_destinacampana_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_elementoslista.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_elementoslista_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_estadoscampana.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_estadoscampana_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_estadosdestina.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_estadosdestina_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_listascampana.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_listascampana_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_listasmark.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_listasmark_def.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_valoresalias.py"
+            },
+            {
+                "path": "models/flcrm_mark/",
+                "name": "model_flcrm_mark__crm_valoresalias_def.py"
+            },
+            {
+                "path": "apps/marketing/",
+                "name": "app_marketing____init__.py"
+            },
+            {
+                "path": "apps/marketing/templates/marketing/",
+                "name": "app_marketing__menu_marketing.json"
+            },
+            {
+                "path": "apps/marketing/viewset/",
+                "name": "app_marketing__views_marketing.py"
+            }
+        ],
         "replaceFile": [
             {
                 "path": "config/",

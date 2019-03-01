@@ -1,3 +1,32 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/portal",
+            "value": {
+                "marketing": {}
+            }
+        },
+        {
+            "type": "insertAfterNode",
+            "path": "/models/root",
+            "value": {
+                "flcrm_mark": {
+                    "crm_adjuntoscampana": null,
+                    "crm_aliascampana": null,
+                    "crm_campanas": null,
+                    "crm_configmark": null,
+                    "crm_consultasmark": null,
+                    "crm_criterioslista": null,
+                    "crm_destinacampana": null,
+                    "crm_elementoslista": null,
+                    "crm_estadoscampana": null,
+                    "crm_estadosdestina": null,
+                    "crm_listascampana": null,
+                    "crm_listasmark": null,
+                    "crm_valoresalias": null
+                }
+            }
+        }
+    ]
 }

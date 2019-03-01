@@ -1,3 +1,38 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/root",
+            "value": {
+                "flcrm_mark": {
+                    "crm_adjuntoscampana": null,
+                    "crm_aliascampana": null,
+                    "crm_campanas": null,
+                    "crm_configmark": null,
+                    "crm_consultasmark": {
+                        "formRecord": "crm_consultasmark",
+                        "form": "crm_masterconsultasmark"
+                    },
+                    "crm_criterioslista": null,
+                    "crm_destinacampana": {
+                        "formRecord": "crm_destinacampana",
+                        "form": "crm_masterdestinacampana"
+                    },
+                    "crm_elementoslista": null,
+                    "crm_estadoscampana": {
+                        "form": "crm_masterestadoscampana"
+                    },
+                    "crm_estadosdestina": {
+                        "form": "crm_masterestadosdestina"
+                    },
+                    "crm_listascampana": null,
+                    "crm_listasmark": {
+                        "formRecord": "crm_listasmark",
+                        "form": "crm_masterlistasmark"
+                    },
+                    "crm_valoresalias": null
+                }
+            }
+        }
+    ]
 }
